@@ -97,7 +97,8 @@ body {
     -moz-border-radius: 1.5rem;
     -ms-border-radius: 1.5rem;
     -o-border-radius: 1.5rem;
-    margin-bottom: 1rem;
+     margin-top: 2rem;
+     margin-bottom: 2rem;
 }
 
 .container h2 {
